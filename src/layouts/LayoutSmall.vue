@@ -7,13 +7,13 @@
   <div id="layout-small">
     <header>
       <small-header />
-      
+
     </header>
     <main>
       <router-view />
     </main>
     <footer>
-      <small-footer />
+      <small-footer/>
     </footer>
   </div>
 </template>
