@@ -7,6 +7,7 @@
   <div id="layout-small">
     <header>
       <small-header />
+      
     </header>
     <main>
       <router-view />
